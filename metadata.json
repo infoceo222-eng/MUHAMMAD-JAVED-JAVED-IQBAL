@@ -1,0 +1,8 @@
+{
+  "name": "GHS Char Din Wala LMS",
+  "description": "ایک جامع تعلیمی پورٹل گورنمنٹ ہائی سکول چار دن والا، قصور کے لیے، جس میں ایڈمن، اساتذہ اور طلباء کے لیے الگ الگ ڈیش بورڈز شامل ہیں۔",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
